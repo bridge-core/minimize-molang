@@ -1,6 +1,6 @@
 {
 	"imports": {
-		"molang": "npm:molang@1.13.11",
+		"molang": "npm:molang@2.0.1",
 		"get-stdin": "https://deno.land/x/get_stdin@v1.1.0/mod.ts"
 	}
 }

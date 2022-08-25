@@ -1,6 +1,7 @@
 {
 	"importMap": "importMap.json",
 	"tasks": {
-		"minimize_molang": "deno run --unstable --allow-env ./mod.ts"
+		"minimize_molang": "deno run --unstable --allow-env ./mod.ts",
+		"reload": "deno run --reload --unstable --allow-env ./mod.ts"
 	}
 }
